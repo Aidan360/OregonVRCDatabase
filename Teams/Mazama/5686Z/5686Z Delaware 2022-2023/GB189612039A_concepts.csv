@@ -1,0 +1,17 @@
+name,domain,smiles,inchi_key,query match,sections
+metal,Inorganic materials,,,0.000,abstract
+metal,Substances,,,0.000,abstract
+inductive effect,Effects,,,0.000,abstract
+nickel,Chemical compound,[Ni],PXHVJJICTQNCMI-UHFFFAOYSA-N,0.000,abstract
+platinum,Chemical compound,[Pt],BASFCYQUMIYNBI-UHFFFAOYSA-N,0.000,abstract
+silver,Chemical compound,[Ag],BQCADISMDOOEFD-UHFFFAOYSA-N,0.000,abstract
+silver,Inorganic materials,,,0.000,abstract
+silver,Substances,,,0.000,abstract
+Accipitridae,Species,,,0.000,abstract
+glass,Substances,,,0.000,abstract
+nickel,Inorganic materials,,,0.000,abstract
+platinum,Inorganic materials,,,0.000,abstract
+rubber tapping,Methods,,,0.000,abstract
+signaling,Effects,,,0.000,abstract
+transmitter,Effects,,,0.000,abstract
+water,Substances,O,XLYOFNOQVPJJNP-UHFFFAOYSA-N,0.000,abstract
